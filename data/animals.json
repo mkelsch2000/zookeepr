@@ -117,33 +117,6 @@
         "hungry"
       ],
       "id": "11"
-    },
-    {
-      "name": "111",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "12"
-    },
-    {
-      "name": "111[]",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "13"
-    },
-    {
-      "name": "Larry",
-      "species": "Monkey",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "anxious"
-      ],
-      "id": "14"
     }
   ]
 }
